@@ -1,0 +1,13 @@
+.header{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+    display: flex;
+    ju
+}
+
+.posse_logo{
+    width: 100px;
+    height: 40px;
+}
